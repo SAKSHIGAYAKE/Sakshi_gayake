@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on skills and internship in data science **Amazon product availability checker , Weather detection , Bank loan prediction , Yolo version 4 .**
+- 🔭 I’m currently working on skills and internship in **Data Science**
 
 - 🌱 I’m Aspiring Business Analyst | Proficient in Excel, SQL, Power BI & Python | Data-Driven Decision Maker | B.Tech CSE | **Seeking Entry-Level Opportunities**
 
