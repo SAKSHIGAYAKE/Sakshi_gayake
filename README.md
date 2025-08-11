@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on skills and internship in data science **Amazon product availability checker , Weather detection , Bank loan prediction , Yolo version 4 .**
 
-- 🌱 I’m currently learning **data analysis**
+- 🌱 I’m Aspiring Business Analyst | Proficient in Excel, SQL, Power BI & Python | Data-Driven Decision Maker | B.Tech CSE | **Seeking Entry-Level Opportunities**
 
 - 📫 How to reach me **sakshigaike23@gmail.com**
 
